@@ -1,0 +1,14 @@
+[📢 Assunto: Você sabe tudo o que a sua TI tem?]
+
+Gestão de Configuração na prática
+
+🔹 Cenário real:
+Um novo colaborador chega e precisa de acesso a vários sistemas. O suporte não sabe quais permissões ele precisa e demora dias para configurar tudo corretamente.
+
+🔹 O que a ITIL faria diferente?
+A empresa teria um Banco de Dados de Configuração (CMDB) atualizado.
+Cada cargo teria perfis de acesso padronizados, agilizando o processo.
+O suporte evitaria erros e retrabalho.
+✅ Benefício: Menos tempo perdido configurando acessos e mais produtividade desde o primeiro dia.
+
+📩 No próximo e-mail: Como a Gestão de Níveis de Serviço melhora a experiência do usuário?
