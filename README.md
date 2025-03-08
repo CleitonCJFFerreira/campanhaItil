@@ -5,9 +5,9 @@ Seja bem-vindo à campanha "ITIL Descomplicado"! Durante as próximas semanas, v
 
 Ordem dos envios
 
-Início
-  emails/[itil1..itil13]
-  praticas/[pratica1..pratica6]
-  quizz/[pergunta;resposta]
-  feedback
-Conclusao
+Início<br>
+  emails/[itil1 até itil13]<br>
+  praticas/[pratica1 até pratica6]<br>
+  quizz/[pergunta;resposta]<br>
+  feedback<br>
+Conclusao<br>
