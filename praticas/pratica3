@@ -1,0 +1,15 @@
+[📢 Assunto: Uma pequena mudança pode gerar um grande problema!]
+
+Gestão de Mudanças na prática
+
+🔹 Cenário real:
+A equipe de TI decide atualizar o sistema de pagamentos. Após a atualização, os boletos param de ser gerados corretamente. O que deu errado?
+
+🔹 O que a ITIL faria diferente?
+
+Antes da mudança, um planejamento estruturado teria sido feito.
+Testes teriam sido realizados em ambiente de homologação antes da produção.
+A equipe teria um plano de rollback caso algo desse errado.
+✅ Benefício: Menos falhas em mudanças e mais confiança nas atualizações.
+
+📩 No próximo e-mail: Como a Gestão de Configuração evita perda de tempo e recursos?
